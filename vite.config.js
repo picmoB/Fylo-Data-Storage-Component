@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: "/Fylo-Data-Storage-Component/",
 })
